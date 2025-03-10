@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Exercicio_Criar_Projeto_Azure_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7108",
+      "launchBrowser": false
+    }
+  }
+}
